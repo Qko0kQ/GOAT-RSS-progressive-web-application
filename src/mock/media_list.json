@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daily Mail UK",
+    "url":"https://www.sleepphones.com/sites/default/files/styles/blog_image/public/Daily-Mail-Logo_0.png?itok=atnTYFWs",
+    "source": "https://www.dailymail.co.uk/home/index.html",
+    "description": "Daily Mail United Kingdom"
+  },
+  {
+    "title": "Google News",
+    "url":"https://i1.wp.com/www.theideapress.com/wp-content/uploads/2017/11/how-to-get-your-website-listed-on-google-news.png",
+    "source": "https://news.google.com/",
+    "description": "One of the largest news websites"
+  },
+  {
+    "title": "Business Insider",
+    "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556866124423&di=469ebab6d646d0ecb85c931822e40bc3&imgtype=0&src=http%3A%2F%2Fi1.sinaimg.cn%2Fcj%2F2014%2F0107%2FU5404P31DT20140107082302.jpg",
+    "source": "https://www.businessinsider.com/",
+    "description": "Fast-growing business site with deep financial verticals. "
+  }
+]

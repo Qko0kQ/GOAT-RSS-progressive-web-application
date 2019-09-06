@@ -1,0 +1,27 @@
+.news-card-list {
+  display: flex;
+  flex-wrap: wrap;
+  .ant-card{
+    min-width: 33%;
+  }
+  .ant-card-meta-title {
+    overflow: visible;
+    text-overflow: initial;
+    white-space: normal;
+  }
+  .ant-card-cover {
+    height: 200px;
+    img {
+      height: 200px;
+    }
+  }
+}
+
+.news-card {
+  width: 280px;
+  @media screen and (max-width: 600px){
+    width: 100%;
+    border-color: rgba(0, 0, 0, 0.09);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+  }
+}

@@ -1,0 +1,35 @@
+$max-width: 960px;
+
+.container {
+  text-align: left;
+  max-width: 960px;
+  padding: 48px 24px 0;
+  margin: 0 auto;
+  .list-headline {
+    display: flex;
+    justify-content: space-between;
+    .list-title {
+      display: inline-block;
+      font-size: calc(0.8vw + 20px);
+      line-height: calc(0.8vw + 20px);
+      color: #61dafb;
+    }
+  }
+}
+
+
+
+.list-container {
+  max-width: $max-width;
+}
+
+.item-title {
+  font-size: large;
+  font-weight: bold;
+}
+
+.read-more {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

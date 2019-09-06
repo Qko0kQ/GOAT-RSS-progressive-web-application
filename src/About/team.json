@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tinghui(Rick) Liao",
+    "url": "https://www.linkedin.com/in/tinghui-liao/",
+    "position": "Team leader",
+    "img": "https://media.licdn.com/dms/image/C5103AQGOkLJT8JyjZg/profile-displayphoto-shrink_200_200/0?e=1561593600&v=beta&t=b_XLu2U_b4xix9rX6VVna2QPTfCz-D9MjY_l3TxyGRU",
+    "description": "I'm responsible for frontend and design",
+    "github": "https://github.com/DeepinSC",
+    "linkedin": "https://www.linkedin.com/in/tinghui-liao"
+  },
+  {
+    "name": "Jingyu Li",
+    "url": "https://www.linkedin.com/in/jingyu-li-651878156/",
+    "position": "Team member",
+    "img": "https://i.postimg.cc/L5bfD4hM/IMG-0215.jpg",
+    "description": "I'm responsible for frontend and design",
+    "github": "https://github.com/beijingjack",
+    "linkedin": "https://www.linkedin.com/in/jingyu-li-651878156/"
+  },
+  {
+    "name": "Kun Qiao",
+    "url": "https://www.linkedin.com/in/kun-qiao-753719111/",
+    "position": "Team member",
+    "img": "https://media.licdn.com/dms/image/C5103AQEUOpaonwfW4w/profile-displayphoto-shrink_200_200/0?e=1562198400&v=beta&t=7ixIPVeFnz9tuYplsoFDtJubomDrHaPqV7LdozzsoGs",
+    "description": "I'm responsible for backend and database",
+    "github": "https://github.com/Qko0kQ",
+    "linkedin": "https://www.linkedin.com/in/kun-qiao-753719111/"
+  },
+  {
+    "name": "Haoqi Hu",
+    "url": "https://www.linkedin.com/in/haoqihu266/",
+    "position": "Team member",
+    "img": "https://media.licdn.com/dms/image/C4E03AQF1V3RmPV1_KA/profile-displayphoto-shrink_200_200/0?e=1562198400&v=beta&t=PbPRqLVzSjOwDpguhvIHZ7-I7h0aTYVCkIE5s42_B9s",
+    "description": "I'm responsible for backend and database",
+    "github": "https://github.com/kevinhhq",
+    "linkedin": "https://www.linkedin.com/in/haoqihu266/"
+  }
+]

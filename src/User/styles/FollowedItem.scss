@@ -1,0 +1,22 @@
+.item-card {
+  border-radius: 10px !important;
+  margin: 20px 10px !important;
+  width: 32%;
+  line-height: 50px;
+  .item-container {
+    display: flex;
+  }
+
+  .item-description {
+    width: 50%;
+    margin: auto 20px;
+  }
+
+  .item-operation {
+    align-self: end;
+    margin: auto;
+    button {
+      border: none !important;
+    }
+  }
+}

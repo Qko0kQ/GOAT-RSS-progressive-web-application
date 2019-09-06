@@ -1,0 +1,74 @@
+.home-container {
+  text-align: left;
+  max-width: 960px;
+  padding: 48px 24px 0;
+  margin: 0 auto;
+
+  .home-container-title{
+    padding-bottom: 2vw;
+    line-height: calc(0.7vw + 15px);
+    font-weight: 600;
+    .main-title{
+      font-size: calc(1vw + 30px);
+      line-height: calc(1vw + 30px);
+      color: #61dafb;
+      @media only screen and (max-width: 600px) {
+        font-size: 20px;
+        line-height: 20px;
+      }
+    }
+    .sub-title{
+      color: gainsboro;
+      font-weight: 400;
+      font-size: calc(0.8vw + 20px);
+      line-height: calc(0.8vw + 20px);
+      @media only screen and (max-width: 600px) {
+        font-size: 20px;
+        line-height: 20px;
+      }
+    }
+  }
+  .search-bar {
+    padding: 4vw 0;
+    .ant-input-group-addon {
+      background-color: white;
+      border-top-left-radius: 26px;
+      border-bottom-left-radius: 26px;
+      border: none;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1), 0 2px 5px rgba(156, 160, 171, 0.25);
+    }
+    .ant-input {
+      height: 60px;
+      font-size: 18px;
+      border-radius: 26px;
+      border: none;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1), 0 2px 5px rgba(156, 160, 171, 0.25);
+      &:focus {
+        border-color: #d9d9d9;
+      }
+      &:active {
+        border-color: #d9d9d9;
+      }
+    }
+  }
+}
+
+.ant-select-selection__rendered{
+  margin-left: initial !important;
+  display: inline-block !important;
+  .ant-select-selection-selected-value {
+    padding: initial;
+  }
+}
+
+.home-sections {
+  h1 {
+    font-size: 24px;
+    color: #61dafb;
+    display: inline-block;
+    @media only screen and (max-width: 600px) {
+      font-size: 15px;
+      line-height: 15px;
+    }
+  }
+}

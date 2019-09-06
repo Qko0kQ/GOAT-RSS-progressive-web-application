@@ -1,0 +1,50 @@
+.header-container {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue',
+  Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  box-shadow: rgb(235, 235, 235) 0px 1px 0px;
+  max-height: 100px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 80px;
+  .header-container-title {
+    a {
+      color: #61dafb;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    margin: 0 5vw;
+    width: 50%;
+    max-height: 100%;
+    display: flex;
+    img {
+      height: 50px;
+      width: 50px;
+    }
+  }
+  .header-container-extra {
+    margin: 0 1vw;
+    display: flex;
+    a {
+      color: inherit;
+    }
+    .header-container-btn {
+      cursor: pointer;
+      margin: 0 2vw;
+      position: relative;
+
+      &::after {
+        content: '';
+        width: 0;
+        position:absolute;
+        left: 50%; /* Now the start point is in the center*/
+        top: 90%;
+        transform: translate(-50%); /* main animation */
+        border-bottom: 2px solid #61dafb;
+        transition: all 0.5s ease-in-out;
+      }
+      &:hover::after{
+        width: 100%;
+      }
+    }
+  }
+}

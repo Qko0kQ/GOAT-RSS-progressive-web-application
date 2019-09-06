@@ -1,0 +1,28 @@
+.ant-drawer {
+  .ant-drawer-header {
+    height: 81px;
+    .ant-drawer-title {
+      text-align: center;
+      line-height: 60px;
+      color: #61dafb;
+      font-size: 20px;
+      font-weight: 600;
+    }
+  }
+  .ant-menu-submenu-title {
+    &:hover {
+      color: #61dafb;
+    }
+  }
+  .ant-drawer-body {
+    padding: initial;
+  }
+  .ant-menu-item-selected {
+    color: #61dafb;
+  }
+  .ant-menu-item {
+    &:hover {
+      color: #61dafb;
+    }
+  }
+}

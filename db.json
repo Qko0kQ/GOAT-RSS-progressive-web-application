@@ -1,0 +1,19 @@
+{
+  "news_list": [
+    { "id": 1, 
+      "title": "May meeting Macron for Brexit delay talks", 
+      "url": "https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/D5E4/production/_106365745_mediaitem106365744.jpg",
+      "description": "Lorem ipsum dolor sit amet, nam in adhuc tollit vituperata, vim modo errem habemus in. Nam ei debitis persequeris. Eos agam sonet petentium id, vide putant volumus at vel, mea te delenit delicata principes."
+    },
+    { "id": 2, 
+      "title": "Trump rails against court defeat on asylum",
+      "url": "https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/52AE/production/_106366112_gettyimages-1135934892.jpg",
+      "description": "Lorem ipsum dolor sit amet, nam in adhuc tollit vituperata, vim modo errem habemus in. Nam ei debitis persequeris. Eos agam sonet petentium id, vide putant volumus at vel, mea te delenit delicata principes."
+    },
+    { "id": 3,
+      "title": "The blossom worth billions for Japan", 
+      "url": "https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/16F4B/production/_106372049_p075zksv.jpg",
+      "description": "Lorem ipsum dolor sit amet, nam in adhuc tollit vituperata, vim modo errem habemus in. Nam ei debitis persequeris. Eos agam sonet petentium id, vide putant volumus at vel, mea te delenit delicata principes."
+    }
+  ]
+}
